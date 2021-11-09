@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-Fictional Tours App with focus on element animations as well as SASS properties
+Completely responsive Fictional Tours App with focus on element animations as well as SASS properties
 
 [![Natours](https://github.com/hectorg2211/Natours/blob/main/Natours.jpg)](https://natours-hector-app.netlify.app/)
 
