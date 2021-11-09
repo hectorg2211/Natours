@@ -22,7 +22,7 @@
     <a href="https://github.com/hectorg2211/Natours"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hectorg2211/Natours">View Demo</a>
+    <a href="https://natours-hector-app.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/hectorg2211/Natours/issues">Report Bug</a>
     ·
