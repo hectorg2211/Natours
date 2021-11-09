@@ -71,6 +71,7 @@ Fictional Tours App with focus on element animations as well as SASS properties
 - [SASS](https://sass-lang.com/)
 - [Parcel](https://parceljs.org/)
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [7 - 1 Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
